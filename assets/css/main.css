@@ -1,0 +1,80 @@
+body{
+  margin: 0 auto;
+  background: #93f082;
+}
+
+.panda1{
+  background: #ff875f;
+  height: 10em;
+}
+
+.panda1{
+  text-align: right;
+  color: white;
+  padding-top: 2em;
+}
+
+.panda2{
+  background-image: url(../img/uno.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 39em;
+}
+
+.panda3{
+  background: #ff875f;
+  width: 35%;
+  color: white;
+  margin-top: 3em;
+  margin-bottom: 3em;
+  margin-left: 30em;
+}
+.panda3 h2{
+  text-align: center;
+  padding-bottom: 1em;
+}
+
+.panda3 p{
+  text-align: justify;
+}
+
+.panda4{
+  background-image: url(../img/dos.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 39em;
+}
+
+.pictureSection{
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
+.pictureTitle h2{
+  text-align: center;
+  color: white;
+}
+
+.panda5{
+  margin-left: 15em;
+}
+
+.panda5 img{
+  width: 20%;
+}
+
+.panda6{
+  background-image: url(../img/tres.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 39em;
+}
+
+.panda7{
+  background: #ff875f;
+}
+
+.panda7 p{
+  text-align: right;
+  color: white;
+}
